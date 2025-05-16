@@ -1,0 +1,60 @@
+16 May 13:45:08 servidor sshd[1234]: Fallo de contraseña para el usuario inválido admin desde 172.16.0.2 puerto 22 ssh2
+16 May 13:45:04 servidor sshd[1234]: Fallo de contraseña para el usuario inválido oracle desde 192.168.1.101 puerto 22 ssh2
+16 May 13:45:08 servidor sshd[1234]: Fallo de contraseña para el usuario inválido oracle desde 192.168.1.101 puerto 22 ssh2
+16 May 13:45:03 servidor sshd[1234]: Fallo de contraseña para el usuario inválido root desde 192.168.1.100 puerto 22 ssh2
+16 May 13:45:06 servidor sshd[1234]: Fallo de contraseña para el usuario inválido admin desde 172.16.0.2 puerto 22 ssh2
+16 May 13:45:06 servidor sshd[1234]: Fallo de contraseña para el usuario inválido root desde 10.0.0.5 puerto 22 ssh2
+16 May 13:45:09 servidor sshd[1234]: Fallo de contraseña para el usuario inválido user desde 192.168.1.100 puerto 22 ssh2
+16 May 13:45:06 servidor sshd[1234]: Fallo de contraseña para el usuario inválido guest desde 10.0.0.5 puerto 22 ssh2
+16 May 13:45:04 servidor sshd[1234]: Fallo de contraseña para el usuario inválido oracle desde 172.16.0.2 puerto 22 ssh2
+16 May 13:45:04 servidor sshd[1234]: Fallo de contraseña para el usuario inválido user desde 172.16.0.2 puerto 22 ssh2
+16 May 13:45:07 servidor sshd[1234]: Fallo de contraseña para el usuario inválido root desde 192.168.1.101 puerto 22 ssh2
+16 May 13:45:09 servidor sshd[1234]: Fallo de contraseña para el usuario inválido root desde 192.168.1.101 puerto 22 ssh2
+16 May 13:45:07 servidor sshd[1234]: Fallo de contraseña para el usuario inválido oracle desde 10.0.0.5 puerto 22 ssh2
+16 May 13:45:08 servidor sshd[1234]: Fallo de contraseña para el usuario inválido user desde 172.16.0.2 puerto 22 ssh2
+16 May 13:45:00 servidor sshd[1234]: Fallo de contraseña para el usuario inválido admin desde 10.0.0.5 puerto 22 ssh2
+16 May 13:45:06 servidor sshd[1234]: Fallo de contraseña para el usuario inválido admin desde 192.168.1.100 puerto 22 ssh2
+16 May 13:45:01 servidor sshd[1234]: Fallo de contraseña para el usuario inválido admin desde 192.168.1.100 puerto 22 ssh2
+16 May 13:45:00 servidor sshd[1234]: Fallo de contraseña para el usuario inválido admin desde 192.168.1.101 puerto 22 ssh2
+16 May 13:45:06 servidor sshd[1234]: Fallo de contraseña para el usuario inválido root desde 192.168.1.100 puerto 22 ssh2
+16 May 13:45:06 servidor sshd[1234]: Fallo de contraseña para el usuario inválido oracle desde 192.168.1.100 puerto 22 ssh2
+192.168.1.100 - - [16/May/2025:13:45:14 +0000] "GET /no_existe6 HTTP/1.1" 404 498
+192.168.1.100 - - [16/May/2025:13:45:59 +0000] "GET /no_existe36 HTTP/1.1" 404 498
+172.16.0.2 - - [16/May/2025:13:45:44 +0000] "GET /no_existe10 HTTP/1.1" 404 498
+192.168.1.101 - - [16/May/2025:13:45:26 +0000] "GET /no_existe33 HTTP/1.1" 404 498
+10.0.0.5 - - [16/May/2025:13:45:27 +0000] "GET /no_existe49 HTTP/1.1" 404 498
+192.168.1.100 - - [16/May/2025:13:45:28 +0000] "GET /no_existe43 HTTP/1.1" 404 498
+10.0.0.5 - - [16/May/2025:13:45:30 +0000] "GET /no_existe5 HTTP/1.1" 404 498
+172.16.0.2 - - [16/May/2025:13:45:33 +0000] "GET /no_existe20 HTTP/1.1" 404 498
+10.0.0.5 - - [16/May/2025:13:45:54 +0000] "GET /no_existe32 HTTP/1.1" 404 498
+192.168.1.100 - - [16/May/2025:13:45:23 +0000] "GET /no_existe19 HTTP/1.1" 404 498
+192.168.1.100 - - [16/May/2025:13:45:48 +0000] "GET /no_existe7 HTTP/1.1" 404 498
+10.0.0.5 - - [16/May/2025:13:45:26 +0000] "GET /no_existe32 HTTP/1.1" 404 498
+192.168.1.100 - - [16/May/2025:13:45:49 +0000] "GET /no_existe28 HTTP/1.1" 404 498
+192.168.1.101 - - [16/May/2025:13:45:49 +0000] "GET /no_existe15 HTTP/1.1" 404 498
+172.16.0.2 - - [16/May/2025:13:45:17 +0000] "GET /no_existe9 HTTP/1.1" 404 498
+192.168.1.101 - - [16/May/2025:13:45:14 +0000] "GET /no_existe43 HTTP/1.1" 404 498
+192.168.1.100 - - [16/May/2025:13:45:42 +0000] "GET /no_existe40 HTTP/1.1" 404 498
+192.168.1.100 - - [16/May/2025:13:45:59 +0000] "GET /no_existe4 HTTP/1.1" 404 498
+172.16.0.2 - - [16/May/2025:13:45:48 +0000] "GET /no_existe50 HTTP/1.1" 404 498
+192.168.1.100 - - [16/May/2025:13:45:30 +0000] "GET /no_existe36 HTTP/1.1" 404 498
+192.168.1.100 - - [16/May/2025:13:45:40 +0000] "GET /no_existe12 HTTP/1.1" 404 498
+192.168.1.100 - - [16/May/2025:13:45:11 +0000] "GET /no_existe11 HTTP/1.1" 404 498
+192.168.1.100 - - [16/May/2025:13:45:40 +0000] "GET /no_existe26 HTTP/1.1" 404 498
+10.0.0.5 - - [16/May/2025:13:45:51 +0000] "GET /no_existe31 HTTP/1.1" 404 498
+172.16.0.2 - - [16/May/2025:13:45:35 +0000] "GET /no_existe45 HTTP/1.1" 404 498
+192.168.1.100 - - [16/May/2025:13:45:49 +0000] "GET /no_existe18 HTTP/1.1" 404 498
+10.0.0.5 - - [16/May/2025:13:45:33 +0000] "GET /no_existe22 HTTP/1.1" 404 498
+172.16.0.2 - - [16/May/2025:13:45:12 +0000] "GET /no_existe33 HTTP/1.1" 404 498
+172.16.0.2 - - [16/May/2025:13:45:54 +0000] "GET /no_existe14 HTTP/1.1" 404 498
+192.168.1.100 - - [16/May/2025:13:45:49 +0000] "GET /no_existe4 HTTP/1.1" 404 498
+10.0.0.5 - - [16/May/2025:13:46:41 +0000] "GET /index.html HTTP/1.1" 200 1024
+10.0.0.5 - - [16/May/2025:13:46:17 +0000] "GET /index.html HTTP/1.1" 200 1024
+172.16.0.2 - - [16/May/2025:13:46:26 +0000] "GET /index.html HTTP/1.1" 200 1024
+192.168.1.100 - - [16/May/2025:13:46:36 +0000] "GET /index.html HTTP/1.1" 200 1024
+192.168.1.101 - - [16/May/2025:13:46:39 +0000] "GET /index.html HTTP/1.1" 200 1024
+10.0.0.5 - - [16/May/2025:13:46:20 +0000] "GET /index.html HTTP/1.1" 200 1024
+192.168.1.101 - - [16/May/2025:13:46:32 +0000] "GET /index.html HTTP/1.1" 200 1024
+192.168.1.100 - - [16/May/2025:13:46:21 +0000] "GET /index.html HTTP/1.1" 200 1024
+172.16.0.2 - - [16/May/2025:13:46:47 +0000] "GET /index.html HTTP/1.1" 200 1024
+10.0.0.5 - - [16/May/2025:13:46:25 +0000] "GET /index.html HTTP/1.1" 200 1024

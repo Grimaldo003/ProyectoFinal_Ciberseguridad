@@ -1,0 +1,8 @@
+2025-05-16 01:15:19,358 - ERROR - Archivo de log no encontrado.
+2025-05-16 01:17:10,105 - ERROR - Archivo de log no encontrado.
+2025-05-16 01:19:31,832 - INFO - Archivo cargado: logs.txt con 60 líneas.
+2025-05-16 01:19:31,833 - WARNING - IP sospechosa por fuerza bruta: 192.168.1.100
+2025-05-16 01:19:31,834 - WARNING - IP sospechosa por escaneo: 192.168.1.100
+2025-05-16 01:30:36,887 - INFO - Archivo cargado: logs.txt con 60 líneas.
+2025-05-16 01:30:36,888 - WARNING - IP sospechosa por fuerza bruta: 192.168.1.100
+2025-05-16 01:30:36,889 - WARNING - IP sospechosa por escaneo: 192.168.1.100
