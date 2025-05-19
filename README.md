@@ -1,2 +1,9 @@
-# ProyectoFinal_Ciberseguridad
-En este proyecto se publicarán programas de powershell, bash y python usando diferentes herramientas
+Programas de python---------------------------
+
+Se subieron 3 códigos de python --------------
+
+Un menú que incluye --------------------------
+
+- Un modulo llamado IPDBAbuse.py ------------
+
+- Y un modulo llamado ShodanModule.py -------
