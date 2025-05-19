@@ -41,9 +41,9 @@ NT: Solo deben ejecutar el Subemnú de cada lenguaje
       
       -  Código 5 (Menu_Modulo_cinco.py)
   
-        |--- Código 1 (Analizador_Logs.py)
-
-        |--- Código 2 (Generador_Logs.py)
+           - Código 1 (Analizador_Logs.py)
+            
+           - Código 2 (Generador_Logs.py)
 
      
 ---------------------------------------------
